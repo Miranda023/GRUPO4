@@ -5,15 +5,15 @@ ayuda con respecto a dónde y cuando practicar, condiciones climáticas, y equip
 Publico objetivo:
 Practicantes de surf que necesiten precisión para planificar su día de deporte.
 
-Listado de 5 páginas referentes en las que se basa su proyecto:
+Listado de  sitios referentes en las que se basa su proyecto:
 
-https://fresiasurfclass.com.br/
+Elegimos este sitio porque nos gusto la informacion que proporciona sobre las actividades que realizan en la escuela y el equipo o profesionales que estan dispuesto a enseñar:https://fresiasurfclass.com.br/
 
-https://www.saltlightsurf.com/
+Es una pagina simple pero con un diseño muy agradable y llamativa: https://www.saltlightsurf.com/
 
-https://www.escueladesurfmdp.com.ar/
+Es sobre una colonia de verano con muchos años de experiencia el cual nos gusto la fluidez con la que se majeta el sitio y la facilidad que provee a la hora de inscribirse:https://www.escueladesurfmdp.com.ar/
 
-https://tommytsunamisurfschool.com/
+En esta pagina nos gusto mucho su footer. Añade también una función de redes sociales donde integra instagram ,facebook y un sitio donde invita a sus Alumnos a contactarlos por ese medio y compartir sus experiencias: https://tommytsunamisurfschool.com/
 
 
 Listado del grupo con una breve descripción de cada uno:
