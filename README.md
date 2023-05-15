@@ -20,3 +20,7 @@ Listado del grupo con una breve descripción de cada uno:
 
 Carolina Kobalenko: Hola! Argentina viviendo en Brasil hace 3 años, tengo 40 años,
 y trabajo para la empresa Lenovo hace 15 años. Mi puesto actual es Senior Commission Analyst.
+
+Nicolas Benitez: Hola, soy Argentino, tengo 28 años y hace mas de un año trabajo en una empresa de automatizacion
+industrial, llamada MSI integracion de sistemas. Me desempeño en la compra/venta de materiales y en la cotización
+de proyectos.
