@@ -1,6 +1,10 @@
+Negocio: Centros y locales de surf
+
 Temática y descripción del sitio:
 El sitio buscar proporcionar soluciones a los aficionados de deportes acuáticos, ofreciéndoles 
 ayuda con respecto a dónde y cuando practicar, condiciones climáticas, y equipamiento.
+
+Nombre: "................."
 
 Publico objetivo:
 Practicantes de surf que necesiten precisión para planificar su día de deporte.
@@ -14,8 +18,7 @@ Es una pagina simple pero con un diseño muy agradable y llamativa: https://www.
 Es sobre una colonia de verano con muchos años de experiencia el cual nos gusto la fluidez con la que se majeta el sitio y la facilidad que provee a la hora de inscribirse:https://www.escueladesurfmdp.com.ar/
 
 En esta pagina nos gusto mucho su footer. Añade también una función de redes sociales donde integra instagram ,facebook y un sitio donde invita a sus Alumnos a contactarlos por ese medio y compartir sus experiencias: https://tommytsunamisurfschool.com/
-
-
+https://patagonia-ar.com/collections/surf
 Listado del grupo con una breve descripción de cada uno:
 
 Carolina Kobalenko: Hola! Argentina viviendo en Brasil hace 3 años, tengo 40 años,
