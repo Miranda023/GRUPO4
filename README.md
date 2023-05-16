@@ -18,7 +18,9 @@ Es una pagina simple pero con un diseño muy agradable y llamativa: https://www.
 Es sobre una colonia de verano con muchos años de experiencia el cual nos gusto la fluidez con la que se majeta el sitio y la facilidad que provee a la hora de inscribirse:https://www.escueladesurfmdp.com.ar/
 
 En esta pagina nos gusto mucho su footer. Añade también una función de redes sociales donde integra instagram ,facebook y un sitio donde invita a sus Alumnos a contactarlos por ese medio y compartir sus experiencias: https://tommytsunamisurfschool.com/
-https://patagonia-ar.com/collections/surf
+
+En este sitio nos gusto como podes personalizar tus tablas de surf https://swellboards.com
+
 Listado del grupo con una breve descripción de cada uno:
 
 Carolina Kobalenko: Hola! Argentina viviendo en Brasil hace 3 años, tengo 40 años,
@@ -27,3 +29,5 @@ y trabajo para la empresa Lenovo hace 15 años. Mi puesto actual es Senior Commi
 Nicolas Benitez: Hola, soy Argentino, tengo 28 años y hace mas de un año trabajo en una empresa de automatizacion
 industrial, llamada MSI integracion de sistemas. Me desempeño en la compra/venta de materiales y en la cotización
 de proyectos.
+
+Diego Miranda: Hola, soy de Argentina,Mendoza. tengo 29 años, Me apaciona los Futbol,e-sports y el basketball.
