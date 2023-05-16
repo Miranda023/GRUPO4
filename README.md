@@ -30,4 +30,4 @@ Nicolas Benitez: Hola, soy Argentino, tengo 28 años y hace mas de un año traba
 industrial, llamada MSI integracion de sistemas. Me desempeño en la compra/venta de materiales y en la cotización
 de proyectos.
 
-Diego Miranda: Hola, soy de Argentina,Mendoza. tengo 29 años, Me apaciona los Futbol,e-sports y el basketball.
+Diego Miranda: Hola, soy de Argentina,Mendoza. tengo 29 años, Me apaciona el Futbol,e-sports y el basketball.
