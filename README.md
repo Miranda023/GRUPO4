@@ -27,3 +27,7 @@ industrial, llamada MSI integracion de sistemas. Me desempeño en la compra/vent
 de proyectos.
 
 Diego Miranda: Hola, soy de Argentina,Mendoza. tengo 29 años, Me apaciona el Futbol,e-sports y el basketball.
+
+Diego Morales "Daf": Hola! es un placer conocerlos a todos. Mi nombre es Diego Fabian Morales Salinas. Les saludo desde la hermosa Colombia y mas especificamente de la calurosa & preciosa ciudad de Cartagena de indias, me apasiona aprender, los idiomas, la musica, el arte y me vuelven loco los videojuegos! Espero podamos compartir de una manera genial y aprendamos muchisimo entre todos. Bendiciones :D
+
+
