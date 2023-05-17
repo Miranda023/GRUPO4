@@ -30,4 +30,6 @@ Diego Miranda: Hola, soy de Argentina,Mendoza. tengo 29 años, Me apaciona el Fu
 
 Diego Morales "Daf": Hola! es un placer conocerlos a todos. Mi nombre es Diego Fabian Morales Salinas. Les saludo desde la hermosa Colombia y mas especificamente de la calurosa & preciosa ciudad de Cartagena de indias, me apasiona aprender, los idiomas, la musica, el arte y me vuelven loco los videojuegos! Espero podamos compartir de una manera genial y aprendamos muchisimo entre todos. Bendiciones :D
 
+Felix Taquini: Buenas! Soy de Argentina, Buennos Aires pilar provincia. Tengo 18 años, mi tiempo esta mayormente dedicado hacia este curso ya que es mi unica y mayor tarea actualmente. Tengo varias pasiones como por ejemplo el deporte y la fotografia. Hasta el momento mi unico trabajo que me quita tiempo es en un torneo de futbol el cual asisto unicamente los miercoles de 20 a 23 hrs.
+
 
