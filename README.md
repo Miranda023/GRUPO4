@@ -2,7 +2,7 @@ Negocio: Centros y locales de surf
 
 Temática y descripción del sitio: El sitio buscar proporcionar soluciones a los aficionados de deportes acuáticos, ofreciéndoles ayuda con respecto a dónde y cuándo practicar, condiciones climáticas, y equipamiento.
 
-Nombre: "................."
+Nombre: "SEAGULL"
 
 Publico objetivo: Practicantes de deportes acuáticos que necesiten precisión para planificar su día o estadía.
 
