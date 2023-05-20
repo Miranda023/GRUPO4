@@ -33,3 +33,7 @@ Diego Morales "Daf": Hola! es un placer conocerlos a todos. Mi nombre es Diego F
 Felix Taquini: Buenas! Soy de Argentina, Buennos Aires pilar provincia. Tengo 18 años, mi tiempo esta mayormente dedicado hacia este curso ya que es mi unica y mayor tarea actualmente. Tengo varias pasiones como por ejemplo el deporte y la fotografia. Hasta el momento mi unico trabajo que me quita tiempo es en un torneo de futbol el cual asisto unicamente los miercoles de 20 a 23 hrs.
 
 Tablero de trabajo: https://www.figma.com/file/gPYwpR96zUNTCwFEL9RjaN/Tablero-de-Trabajo?type=whiteboard&t=RfnmPMmbjsLDxPe4-0
+
+wireframe:
+
+Pagina de incio: https://i.ibb.co/NrT02QN/Whats-App-Image-2023-05-20-at-10-48-56.jpg
