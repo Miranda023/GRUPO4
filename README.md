@@ -32,8 +32,7 @@ Diego Morales "Daf": Hola! es un placer conocerlos a todos. Mi nombre es Diego F
 
 Felix Taquini: Buenas! Soy de Argentina, Buennos Aires pilar provincia. Tengo 18 años, mi tiempo esta mayormente dedicado hacia este curso ya que es mi unica y mayor tarea actualmente. Tengo varias pasiones como por ejemplo el deporte y la fotografia. Hasta el momento mi unico trabajo que me quita tiempo es en un torneo de futbol el cual asisto unicamente los miercoles de 20 a 23 hrs.
 
+Juan Bautista Taquini: Hola , Soy Argentino , de Buenos Aires Pilar. Tengo 23 años . Actualmente vivo en capital federal , me apasiona muchisimo la musica la fotografia y la pintura. Estudio Artes Multimediales en la Universidad de la artes. Me interesa muchisimo la electronica en general , estoy muy entusiasmado con el proyecto y espero que podamos aprender bien los conceptos y trabajar bien en equipo.
+Trabajo dias aislados segun la propuesta que me ofrezcan. De todos modos tengo mucha disponibilidad para trabajar en este proyecto. Saludos y bendiciones a todos.
+
 Tablero de trabajo: https://www.figma.com/file/gPYwpR96zUNTCwFEL9RjaN/Tablero-de-Trabajo?type=whiteboard&t=RfnmPMmbjsLDxPe4-0
-
-wireframe:
-
-Pagina de incio: https://i.ibb.co/NrT02QN/Whats-App-Image-2023-05-20-at-10-48-56.jpg
