@@ -38,4 +38,9 @@ Trabajo dias aislados segun la propuesta que me ofrezcan. De todos modos tengo m
 Tablero de trabajo: https://www.figma.com/file/gPYwpR96zUNTCwFEL9RjaN/Tablero-de-Trabajo?type=whiteboard&t=RfnmPMmbjsLDxPe4-0
 
 Wireframe:
+
 Pagina de incio: https://i.ibb.co/NrT02QN/Whats-App-Image-2023-05-20-at-10-48-56.jpg
+
+Formulario de registro: https://i.ibb.co/wQMMSxN/Whats-App-Image-2023-05-20-at-11-13-57-1.jpg
+
+Formulario de login: https://i.ibb.co/j83YVz5/Whats-App-Image-2023-05-20-at-11-13-52-1.jpg
