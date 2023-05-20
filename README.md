@@ -35,6 +35,8 @@ Felix Taquini: Buenas! Soy de Argentina, Buennos Aires pilar provincia. Tengo 18
 Juan Bautista Taquini: Hola , Soy Argentino , de Buenos Aires Pilar. Tengo 23 años . Actualmente vivo en capital federal , me apasiona muchisimo la musica la fotografia y la pintura. Estudio Artes Multimediales en la Universidad de la artes. Me interesa muchisimo la electronica en general , estoy muy entusiasmado con el proyecto y espero que podamos aprender bien los conceptos y trabajar bien en equipo.
 Trabajo dias aislados segun la propuesta que me ofrezcan. De todos modos tengo mucha disponibilidad para trabajar en este proyecto. Saludos y bendiciones a todos.
 
+Sofia Guzmán Celedón: Vivo en Salta, Argentina, tengo 24 años. Soy Prof. en Educación Inicial y trabajo de ello actualemente. Realice un curso de Diseño UX/UI debido a que amo todo lo relacionado con diseñar. Me encanta la música y el cine.
+
 Tablero de trabajo: https://www.figma.com/file/gPYwpR96zUNTCwFEL9RjaN/Tablero-de-Trabajo?type=whiteboard&t=RfnmPMmbjsLDxPe4-0
 
 Wireframe:
