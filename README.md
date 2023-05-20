@@ -36,3 +36,6 @@ Juan Bautista Taquini: Hola , Soy Argentino , de Buenos Aires Pilar. Tengo 23 a√
 Trabajo dias aislados segun la propuesta que me ofrezcan. De todos modos tengo mucha disponibilidad para trabajar en este proyecto. Saludos y bendiciones a todos.
 
 Tablero de trabajo: https://www.figma.com/file/gPYwpR96zUNTCwFEL9RjaN/Tablero-de-Trabajo?type=whiteboard&t=RfnmPMmbjsLDxPe4-0
+
+Wireframe:
+Pagina de incio: https://i.ibb.co/NrT02QN/Whats-App-Image-2023-05-20-at-10-48-56.jpg
