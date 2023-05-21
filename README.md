@@ -41,8 +41,12 @@ Tablero de trabajo: https://www.figma.com/file/gPYwpR96zUNTCwFEL9RjaN/Tablero-de
 
 Wireframe:
 
-Pagina de incio: https://i.ibb.co/NrT02QN/Whats-App-Image-2023-05-20-at-10-48-56.jpg
+Pagina de incio: https://i.ibb.co/Qkr8nrb/pagina-de-inico.jpg
 
-Formulario de registro: https://i.ibb.co/wQMMSxN/Whats-App-Image-2023-05-20-at-11-13-57-1.jpg
+Formulario de registro: https://i.ibb.co/rfv7n22/crear-cuenta.jpg
 
-Formulario de login: https://i.ibb.co/j83YVz5/Whats-App-Image-2023-05-20-at-11-13-52-1.jpg
+Formulario de login: https://i.ibb.co/gRsjTZX/inicio-de-sesion.jpg
+
+Detalle de un producto: https://i.ibb.co/F826yvH/descripcion-del-producto.jpg
+
+Carrito de compras: https://i.ibb.co/34s0ZdK/carrito-de-compras.jpg
