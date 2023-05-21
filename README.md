@@ -26,8 +26,8 @@ Nicolas Benitez: Hola, soy Argentino, tengo 28 años y hace mas de un año traba
 industrial, llamada MSI integracion de sistemas. Me desempeño en la compra/venta de materiales y en la cotización
 de proyectos.
 
-Diego Miranda: Hola, soy de Argentina,Mendoza. tengo 29 años, Me apaciona el Futbol,e-sports y el basketball, Trabajo 
-en una bodega de mi zona.Desde chico me apaciona la tecnologia y la informatica y amo a messi!!
+Diego Miranda: Hola, soy de Argentina, Mendoza. ¡Tengo 29 años, Me apasiona el Futbol, e-Sport y el basketball, Trabajo!
+en una bodega de mi zona. ¡Desde chico me apasiona la tecnología y la informática y amo a Messi!!
 
 Diego Morales "Daf": Hola! es un placer conocerlos a todos. Mi nombre es Diego Fabian Morales Salinas. Les saludo desde la hermosa Colombia y mas especificamente de la calurosa & preciosa ciudad de Cartagena de indias, me apasiona aprender, los idiomas, la musica, el arte y me vuelven loco los videojuegos! Espero podamos compartir de una manera genial y aprendamos muchisimo entre todos. Bendiciones :D
 
