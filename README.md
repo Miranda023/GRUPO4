@@ -50,6 +50,8 @@ TABLEROS DE TRABAJO:
 https://www.figma.com/file/gPYwpR96zUNTCwFEL9RjaN/Tablero-de-Trabajo?type=whiteboard&t=RfnmPMmbjsLDxPe4-0
 https://trello.com/b/qeQJ1PBP/dh-grupo-4
 
+PROTOTIPO DE WIREFRAMES EN FIGMA:
+https://www.figma.com/proto/WMjRvn0Xe20pYozF0i2dPV/PAGINA-DE-INICIO?type=design&node-id=16-13&scaling=min-zoom&page-id=13%3A2
 
 WIREFRAMES:
 
